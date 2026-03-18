@@ -44,3 +44,20 @@ The repository includes screenshots demonstrating:
 Aastha Mani  
 B.Tech Biotechnology  
 Graphic Era University
+
+## 📊 Results & Visualization
+
+### UniProt Search Results
+![Search](Screenshots/UniProt%20search%20results.png)
+
+### Protein Entry Overview
+![Entry](Screenshots/UniProt%20BRCA1%20entry%20page.png)
+
+### Feature Viewer (Domains & Annotations)
+![Feature](Screenshots/Feature%20viewer%20(domains%20%26%20annotations).png)
+
+### Amino Acid Sequence
+![Sequence](Screenshots/Amino%20acid%20sequence.png)
+
+### Protein Structure
+![Structure](Screenshots/Protein%20structure.png)
