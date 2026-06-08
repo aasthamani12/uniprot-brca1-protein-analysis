@@ -2,6 +2,16 @@
 
 This project is an introductory bioinformatics exploration analyzing the BRCA1 protein using the UniProt database.
 
+## Author
+
+Aastha Mani  
+B.Tech Biotechnology  
+Graphic Era University
+
+<p align="center">
+  <img src="UNIPROT_POSTER.png" width="900">
+</p>
+
 ## Overview
 
 The study focuses on retrieving and analyzing protein information for the BRCA1 gene from Homo sapiens using the UniProt database. The analysis includes protein sequence information, structural features, domains, and disease associations.
@@ -39,25 +49,3 @@ The repository includes screenshots demonstrating:
 - Feature viewer annotations
 - Amino acid sequence
 
-## Author
-
-Aastha Mani  
-B.Tech Biotechnology  
-Graphic Era University
-
-## 📊 Results & Visualization
-
-### UniProt Search Results
-![Search](Screenshots/UniProt%20search%20results.png)
-
-### Protein Entry Overview
-![Entry](Screenshots/UniProt%20BRCA1%20entry%20page.png)
-
-### Feature Viewer (Domains & Annotations)
-![Feature](Screenshots/Feature%20viewer%20(domains%20%26%20annotations).png)
-
-### Amino Acid Sequence
-![Sequence](Screenshots/Amino%20acid%20sequence.png)
-
-### Protein Structure
-![Structure](Screenshots/Protein%20structure.png)
